@@ -5,13 +5,11 @@ x方向に敵の種族が、y方向に自分の種族が対応しています。
 データコードを暗号化して表示している。
 '''
 class Izumon:
-
 	import random
 	import time
 	import hashlib
 	
 	player = "" #プレイヤーネーム
-	
 	iz_num = 80 #イズモンの数
 	expect_damage = 80 #ダメージの期待値
 	
