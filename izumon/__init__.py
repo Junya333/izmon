@@ -1,1 +1,1 @@
-from izmon.izmon import *
+from izmon.izumon import *
