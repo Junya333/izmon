@@ -412,7 +412,10 @@ class Izumon:
 				break
 		self.save()
 		return
-		
+
+iz = Izumon()
+if __name__ == '__main__':
+	iz.main()
 '''
 2023年2月10日
 19H あきた(コーディング)・鍋(設定考案)・みそ(企画)
